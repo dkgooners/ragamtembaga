@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom additions */
+.glass {
+    @apply bg-white/5 backdrop-blur-md border border-white/10;
+}
+
+.glass-dark {
+    @apply bg-black/40 backdrop-blur-lg border border-white/10;
+}
+
+.gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-br from-copper-light to-copper;
+}
+
+.hover-lift {
+    @apply transition transform hover:-translate-y-1 hover:shadow-copper;
+}
