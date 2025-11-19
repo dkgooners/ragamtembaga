@@ -1,0 +1,274 @@
+{
+    "produk": [
+        {
+            "id": 1,
+            "kategori": "Lampu & Penerangan",
+            "nama": "Lampu Gantung Tembaga Klasik",
+            "slug": "lampu-gantung-tembaga-klasik",
+            "gambar": "lampu-gantung-tembaga-klasik.webp",
+            "alt": "Lampu Gantung Tembaga Klasik Handmade Ragam Tembaga",
+            "deskripsi": "Lampu gantung tembaga klasik buatan pengrajin Ragam Tembaga ini dirancang dengan detail artistik untuk menghadirkan kesan elegan dan mewah pada ruangan Anda. Terbuat dari tembaga murni berkualitas tinggi, lampu ini tahan lama, tidak berkarat, dan cocok untuk hotel, kafe, restoran, maupun rumah pribadi bergaya klasik atau modern."
+        },
+        {
+            "id": 2,
+            "kategori": "Lampu & Penerangan",
+            "nama": "Lampu Meja Artistik Tembaga",
+            "slug": "lampu-meja-artistik-tembaga",
+            "gambar": "lampu-meja-artistik-tembaga.webp",
+            "alt": "Lampu Meja Artistik Tembaga Handmade Ragam Tembaga",
+            "deskripsi": "Lampu meja artistik tembaga ini menonjolkan desain elegan dengan ukiran tangan halus khas pengrajin Indonesia. Memberikan nuansa hangat dan berkelas pada meja kerja, kamar tidur, maupun ruang tamu. Lampu ini menggabungkan estetika seni dengan fungsi pencahayaan yang efisien."
+        },
+        {
+            "id": 3,
+            "kategori": "Lampu & Penerangan",
+            "nama": "Lampu Dinding Tembaga Ornamen",
+            "slug": "lampu-dinding-tembaga-ornamen",
+            "gambar": "lampu-dinding-tembaga-ornamen.webp",
+            "alt": "Lampu Dinding Tembaga Ornamen Klasik",
+            "deskripsi": "Lampu dinding tembaga ornamen ini menghadirkan keindahan klasik pada dinding rumah atau bangunan komersial. Dengan finishing mengkilap dan desain ukiran yang menawan, produk ini cocok untuk pencahayaan indoor dan outdoor, menonjolkan karakter khas tembaga."
+        },
+        {
+            "id": 4,
+            "kategori": "Lampu & Penerangan",
+            "nama": "Lampu Taman Tembaga Outdoor",
+            "slug": "lampu-taman-tembaga-outdoor",
+            "gambar": "lampu-taman-tembaga-outdoor.webp",
+            "alt": "Lampu Taman Tembaga Outdoor Antik",
+            "deskripsi": "Lampu taman tembaga outdoor ini dibuat untuk ketahanan cuaca ekstrem dengan lapisan pelindung anti karat. Ideal untuk taman, halaman, atau area publik yang ingin menampilkan nuansa klasik alami. Cahaya temaramnya menciptakan suasana nyaman di malam hari."
+        },
+        {
+            "id": 5,
+            "kategori": "Lampu & Penerangan",
+            "nama": "Lampu Lentera Tembaga Antik",
+            "slug": "lampu-lentera-tembaga-antik",
+            "gambar": "lampu-lentera-tembaga-antik.webp",
+            "alt": "Lampu Lentera Tembaga Antik Handmade",
+            "deskripsi": "Lentera tembaga antik dengan sentuhan vintage dan desain timeless. Dibuat secara handmade oleh pengrajin berpengalaman, lampu ini bisa digunakan sebagai dekorasi interior atau outdoor, memberikan kesan nostalgia dan elegan pada setiap ruangan."
+        },
+        {
+            "id": 6,
+            "kategori": "Lampu & Penerangan",
+            "nama": "Lampu Kubah Masjid Tembaga",
+            "slug": "lampu-kubah-masjid-tembaga",
+            "gambar": "lampu-kubah-masjid-tembaga.webp",
+            "alt": "Lampu Kubah Masjid Tembaga Premium Ragam Tembaga",
+            "deskripsi": "Lampu kubah masjid tembaga ini dirancang dengan presisi tinggi untuk melengkapi keindahan arsitektur masjid. Dengan pencahayaan lembut dan refleksi warna tembaga yang menawan, memberikan kesan spiritual sekaligus mewah. Cocok untuk masjid besar maupun musholla modern."
+        },
+        {
+            "id": 7,
+            "kategori": "Lampu & Penerangan",
+            "nama": "Lampu Kamar Tidur Tembaga Minimalis",
+            "slug": "lampu-kamar-tidur-tembaga-minimalis",
+            "gambar": "lampu-kamar-tidur-tembaga-minimalis.webp",
+            "alt": "Lampu Kamar Tidur Tembaga Minimalis Handmade",
+            "deskripsi": "Lampu kamar tidur tembaga minimalis ini dibuat untuk Anda yang menyukai desain sederhana namun elegan. Dengan pencahayaan lembut dan bentuk ramping, lampu ini menciptakan suasana hangat dan nyaman dalam ruangan Anda."
+        },
+        {
+            "id": 8,
+            "kategori": "Dekorasi & Interior",
+            "nama": "Hiasan Dinding Kaligrafi Tembaga",
+            "slug": "hiasan-dinding-kaligrafi-tembaga",
+            "gambar": "hiasan-dinding-kaligrafi-tembaga.webp",
+            "alt": "Hiasan Dinding Kaligrafi Tembaga Ragam Tembaga",
+            "deskripsi": "Hiasan dinding kaligrafi tembaga buatan pengrajin Ragam Tembaga ini menampilkan detail kaligrafi Allah dan Muhammad dengan ukiran tangan yang halus. Terbuat dari tembaga asli dengan lapisan pelindung anti oksidasi, cocok untuk masjid, rumah, atau ruang kerja yang ingin menampilkan nilai spiritual dan keindahan seni logam tembaga."
+        },
+        {
+            "id": 9,
+            "kategori": "Dekorasi & Interior",
+            "nama": "Relief Tembaga 3D Custom",
+            "slug": "relief-tembaga-3d-custom",
+            "gambar": "relief-tembaga-3d-custom.webp",
+            "alt": "Relief Tembaga 3D Custom Ragam Tembaga",
+            "deskripsi": "Relief tembaga 3D ini dibuat khusus sesuai pesanan pelanggan dengan teknik pahat dan emboss manual. Setiap karya memiliki nilai seni tinggi dan mencerminkan karakter unik pemiliknya. Cocok untuk hotel, gedung pemerintah, hingga hunian mewah yang ingin menampilkan identitas lokal dalam bentuk karya tembaga."
+        },
+        {
+            "id": 10,
+            "kategori": "Dekorasi & Interior",
+            "nama": "Cermin Bingkai Tembaga",
+            "slug": "cermin-bingkai-tembaga",
+            "gambar": "cermin-bingkai-tembaga.webp",
+            "alt": "Cermin Bingkai Tembaga Handmade",
+            "deskripsi": "Cermin bingkai tembaga ini menggabungkan fungsi dan keindahan dalam satu desain. Bingkai tembaga dibuat dengan detail pola ukiran klasik yang memberikan sentuhan elegan dan mewah. Cocok untuk kamar tidur, ruang tamu, atau area lobi hotel yang ingin tampil eksklusif."
+        },
+        {
+            "id": 11,
+            "kategori": "Dekorasi & Interior",
+            "nama": "Vas Bunga Tembaga Handmade",
+            "slug": "vas-bunga-tembaga-handmade",
+            "gambar": "vas-bunga-tembaga-handmade.webp",
+            "alt": "Vas Bunga Tembaga Handmade Ragam Tembaga",
+            "deskripsi": "Vas bunga tembaga handmade ini merupakan hasil pengrajin tradisional Indonesia yang memadukan teknik tempa dan ukir. Dengan warna alami tembaga yang menawan, produk ini cocok untuk mempercantik meja makan, ruang tamu, atau area resepsi hotel."
+        },
+        {
+            "id": 12,
+            "kategori": "Dekorasi & Interior",
+            "nama": "Patung Miniatur Tembaga",
+            "slug": "patung-miniatur-tembaga",
+            "gambar": "patung-miniatur-tembaga.webp",
+            "alt": "Patung Miniatur Tembaga Artistik",
+            "deskripsi": "Patung miniatur tembaga ini dibuat dengan ketelitian tinggi, menonjolkan detail ukiran dan bentuk realistis. Bisa dipesan dalam berbagai tema, dari tokoh budaya hingga bentuk modern. Produk ini sering dijadikan hadiah eksklusif dan dekorasi artistik."
+        },
+        {
+            "id": 13,
+            "kategori": "Dekorasi & Interior",
+            "nama": "Logo Perusahaan Tembaga",
+            "slug": "logo-perusahaan-tembaga",
+            "gambar": "logo-perusahaan-tembaga.webp",
+            "alt": "Logo Perusahaan Tembaga Custom",
+            "deskripsi": "Logo perusahaan berbahan tembaga ini menghadirkan kesan elegan dan prestisius. Dapat dibuat dalam berbagai ukuran dan desain sesuai identitas brand Anda. Ideal untuk hotel, instansi pemerintah, dan perusahaan yang ingin menampilkan citra profesional."
+        },
+        {
+            "id": 14,
+            "kategori": "Dekorasi & Interior",
+            "nama": "Plakat Penghargaan Tembaga",
+            "slug": "plakat-penghargaan-tembaga",
+            "gambar": "plakat-penghargaan-tembaga.webp",
+            "alt": "Plakat Penghargaan Tembaga Eksklusif",
+            "deskripsi": "Plakat penghargaan tembaga buatan Ragam Tembaga dirancang eksklusif dengan ukiran detail dan finishing mengkilap. Sangat cocok untuk penghargaan resmi, acara perusahaan, dan pameran seni yang ingin tampil elegan dan berkelas."
+        },
+        {
+            "id": 15,
+            "kategori": "Peralatan Rumah & Bangunan",
+            "nama": "Wastafel Tembaga Premium",
+            "slug": "wastafel-tembaga-premium",
+            "gambar": "wastafel-tembaga-premium.webp",
+            "alt": "Wastafel Tembaga Premium Artistik",
+            "deskripsi": "Wastafel tembaga premium ini menonjolkan desain mewah dengan tekstur tangan khas pengrajin Indonesia. Tahan terhadap korosi, mudah dibersihkan, dan memberikan sentuhan elegan di kamar mandi hotel, villa, atau rumah pribadi."
+        },
+        {
+            "id": 16,
+            "kategori": "Peralatan Rumah & Bangunan",
+            "nama": "Handle Pintu Tembaga",
+            "slug": "handle-pintu-tembaga",
+            "gambar": "handle-pintu-tembaga.webp",
+            "alt": "Handle Pintu Tembaga Custom",
+            "deskripsi": "Handle pintu tembaga ini dibuat dengan perpaduan antara kekuatan dan estetika. Cocok untuk pintu utama rumah, hotel, atau gedung berdesain klasik-modern. Finishing tembaga menambah kesan hangat dan eksklusif."
+        },
+        {
+            "id": 17,
+            "kategori": "Peralatan Rumah & Bangunan",
+            "nama": "Bak Mandi Tembaga Antik",
+            "slug": "bak-mandi-tembaga-antik",
+            "gambar": "bak-mandi-tembaga-antik.webp",
+            "alt": "Bak Mandi Tembaga Antik Ragam Tembaga",
+            "deskripsi": "Bak mandi tembaga antik dengan desain klasik Eropa dan buatan tangan berstandar tinggi. Tahan karat dan memberikan pengalaman mandi yang elegan serta menenangkan. Cocok untuk villa, spa, dan hotel berbintang."
+        },
+        {
+            "id": 18,
+            "kategori": "Peralatan Rumah & Bangunan",
+            "nama": "Kran Air Tembaga Custom",
+            "slug": "kran-air-tembaga-custom",
+            "gambar": "kran-air-tembaga-custom.webp",
+            "alt": "Kran Air Tembaga Custom Premium",
+            "deskripsi": "Kran air tembaga custom ini menghadirkan kombinasi fungsionalitas dan seni. Dengan finishing mengkilap dan material anti karat, cocok untuk dapur, kamar mandi, atau area cuci dengan tema klasik."
+        },
+        {
+            "id": 19,
+            "kategori": "Peralatan Rumah & Bangunan",
+            "nama": "Tudung Kompor Tembaga (Kitchen Hood)",
+            "slug": "tudung-kompor-tembaga",
+            "gambar": "tudung-kompor-tembaga.webp",
+            "alt": "Tudung Kompor Tembaga Kitchen Hood Ragam Tembaga",
+            "deskripsi": "Tudung kompor tembaga (kitchen hood) buatan Ragam Tembaga menghadirkan kemewahan di dapur Anda. Dirancang tahan panas, mudah dibersihkan, dan dapat dibuat sesuai ukuran dapur pelanggan."
+        },
+        {
+            "id": 20,
+            "kategori": "Peralatan Rumah & Bangunan",
+            "nama": "Meja Konsol Tembaga",
+            "slug": "meja-konsol-tembaga",
+            "gambar": "meja-konsol-tembaga.webp",
+            "alt": "Meja Konsol Tembaga Desain Klasik",
+            "deskripsi": "Meja konsol tembaga handmade yang dirancang untuk menampilkan nuansa klasik dan artistik. Cocok diletakkan di area foyer, ruang tamu, atau kamar tidur. Desainnya menonjolkan pola ukiran dan finishing mengkilap khas Ragam Tembaga."
+        },
+        {
+            "id": 21,
+            "kategori": "Keagamaan & Seni",
+            "nama": "Kubah Masjid Tembaga",
+            "slug": "kubah-masjid-tembaga",
+            "gambar": "kubah-masjid-tembaga.webp",
+            "alt": "Kubah Masjid Tembaga Kaligrafi Ragam Tembaga",
+            "deskripsi": "Kubah masjid tembaga ini menjadi salah satu karya unggulan Ragam Tembaga dengan ukiran kaligrafi dan detail arsitektur Islami. Tahan panas, anti karat, dan memiliki refleksi cahaya yang indah saat terkena sinar matahari."
+        },
+        {
+            "id": 22,
+            "kategori": "Keagamaan & Seni",
+            "nama": "Kaligrafi Allah Muhammad Tembaga",
+            "slug": "kaligrafi-allah-muhammad-tembaga",
+            "gambar": "kaligrafi-allah-muhammad-tembaga.webp",
+            "alt": "Kaligrafi Allah Muhammad Tembaga",
+            "deskripsi": "Kaligrafi Allah dan Muhammad dari bahan tembaga ini dibuat dengan detail dan kesakralan tinggi. Cocok sebagai hiasan masjid atau rumah yang ingin menampilkan keindahan seni kaligrafi Islami."
+        },
+        {
+            "id": 23,
+            "kategori": "Keagamaan & Seni",
+            "nama": "Ornamen Mihrab Tembaga",
+            "slug": "ornamen-mihrab-tembaga",
+            "gambar": "ornamen-mihrab-tembaga.webp",
+            "alt": "Ornamen Mihrab Tembaga Ukir",
+            "deskripsi": "Ornamen mihrab tembaga ini memberikan keindahan arsitektur Islami yang agung dan berkelas. Dibuat dengan desain custom sesuai dimensi masjid, menampilkan kemewahan tanpa meninggalkan kesakralan."
+        },
+        {
+            "id": 24,
+            "kategori": "Keagamaan & Seni",
+            "nama": "Pintu Masjid Tembaga Ukir",
+            "slug": "pintu-masjid-tembaga-ukir",
+            "gambar": "pintu-masjid-tembaga-ukir.webp",
+            "alt": "Pintu Masjid Tembaga Ukir Ragam Tembaga",
+            "deskripsi": "Pintu masjid tembaga ukir merupakan perpaduan seni dan kekuatan. Dibuat dengan bahan tembaga solid dan ukiran kaligrafi khas. Didesain tahan lama dan menjadi ikon estetika masjid."
+        },
+        {
+            "id": 25,
+            "kategori": "Keagamaan & Seni",
+            "nama": "Replika Bedug Tembaga",
+            "slug": "replika-bedug-tembaga",
+            "gambar": "replika-bedug-tembaga.webp",
+            "alt": "Replika Bedug Tembaga Artistik",
+            "deskripsi": "Replika bedug tembaga ini menghadirkan simbol budaya Islam dengan tampilan mewah dan elegan. Bisa dijadikan pajangan masjid, kantor lembaga Islam, atau galeri seni."
+        },
+        {
+            "id": 26,
+            "kategori": "Souvenir & Custom Order",
+            "nama": "Gantungan Kunci Tembaga",
+            "slug": "gantungan-kunci-tembaga",
+            "gambar": "gantungan-kunci-tembaga.webp",
+            "alt": "Gantungan Kunci Tembaga Custom",
+            "deskripsi": "Souvenir gantungan kunci tembaga buatan tangan, bisa dicustom nama atau logo perusahaan. Cocok sebagai merchandise promosi dan oleh-oleh unik khas Indonesia."
+        },
+        {
+            "id": 27,
+            "kategori": "Souvenir & Custom Order",
+            "nama": "Miniatur Masjid Tembaga",
+            "slug": "miniatur-masjid-tembaga",
+            "gambar": "miniatur-masjid-tembaga.webp",
+            "alt": "Miniatur Masjid Tembaga Handmade",
+            "deskripsi": "Miniatur masjid berbahan tembaga ini mencerminkan keindahan arsitektur Islam dalam bentuk mini. Setiap detail dibuat dengan presisi tinggi, menjadikannya koleksi dan hadiah eksklusif."
+        },
+        {
+            "id": 28,
+            "kategori": "Souvenir & Custom Order",
+            "nama": "Logo Instansi Custom Tembaga",
+            "slug": "logo-instansi-custom-tembaga",
+            "gambar": "logo-instansi-custom-tembaga.webp",
+            "alt": "Logo Instansi Custom Tembaga Ragam Tembaga",
+            "deskripsi": "Logo instansi custom tembaga ini cocok untuk kantor pemerintahan, perusahaan, dan organisasi yang ingin menampilkan identitas dengan material elegan dan tahan lama."
+        },
+        {
+            "id": 29,
+            "kategori": "Souvenir & Custom Order",
+            "nama": "Souvenir Pernikahan Tembaga",
+            "slug": "souvenir-pernikahan-tembaga",
+            "gambar": "souvenir-pernikahan-tembaga.webp",
+            "alt": "Souvenir Pernikahan Tembaga Elegan",
+            "deskripsi": "Souvenir pernikahan tembaga handmade yang dapat dipersonalisasi nama pasangan. Memberikan kesan mewah dan tak terlupakan bagi tamu undangan."
+        },
+        {
+            "id": 30,
+            "kategori": "Souvenir & Custom Order",
+            "nama": "Piala & Trophy Tembaga Eksklusif",
+            "slug": "piala-trophy-tembaga-eksklusif",
+            "gambar": "piala-trophy-tembaga-eksklusif.webp",
+            "alt": "Piala Trophy Tembaga Eksklusif Ragam Tembaga",
+            "deskripsi": "Piala dan trophy berbahan tembaga eksklusif ini menjadi simbol penghargaan bergengsi. Dapat disesuaikan dengan desain acara, logo, dan ukiran nama penerima penghargaan."
+        }
+    ]
+}

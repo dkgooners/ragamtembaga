@@ -1,0 +1,18 @@
+ragamtembaga/
+│
+├── index.html
+├── produk.html
+├── sitemap.xml
+├── products-ld.json
+├── assets/
+│   ├── img/
+│   │   ├── lampu-gantung-tembaga.webp
+│   │   ├── lampu-meja-tembaga.webp
+│   │   └── ...
+│   └── css/
+│       └── style.css
+│
+└── produk/
+    ├── lampu-gantung-tembaga.html
+    ├── lampu-meja-artistik-tembaga.html
+    └── ...

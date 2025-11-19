@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.ragamtembaga.com/</loc></url>
-  <url><loc>https://www.ragamtembaga.com/#about</loc></url>
-  <url><loc>https://www.ragamtembaga.com/#produk</loc></url>
-  <url><loc>https://www.ragamtembaga.com/#proses</loc></url>
-  <url><loc>https://www.ragamtembaga.com/#testimoni</loc></url>
-  <url><loc>https://www.ragamtembaga.com/#kontak</loc></url>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://ragamtembaga.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://ragamtembaga.com/produk/lampu-gantung-tembaga-klasik.html</loc>
+    <image:image>
+      <image:loc>https://ragamtembaga.com/assets/img/lampu-gantung-tembaga.webp</image:loc>
+      <image:title>Lampu Gantung Tembaga Klasik Ragam Tembaga</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://ragamtembaga.com/produk/lampu-dinding-tembaga-klasik.html</loc>
+    <image:image>
+      <image:loc>https://ragamtembaga.com/assets/img/lampu-dinding-tembaga.webp</image:loc>
+      <image:title>Lampu Dinding Tembaga Klasik Ragam Tembaga</image:title>
+    </image:image>
+  </url>
+
+  <!-- Tambahkan semua 30 produk lain -->
 </urlset>

@@ -1,0 +1,22 @@
+Quick checklist implementasi (prioritas)
+
+Upload sitemap.xml ke root dan submit di Google Search Console + Bing Webmaster.
+
+Pasang Google Analytics / GA4 dan Google Search Console verification.
+
+Cek coverage & indexing, perbaiki halaman yang di-exclude (crawl errors).
+
+Pantau performa keyword via Search Console (Queries) dan optimalkan yang mendatangkan impresi tapi sedikit klik.
+
+
+Buat data/produk.json untuk 30 produk (isi semua field).
+
+Gunakan template halaman produk (step 1) dan generate halaman statis / SSR.
+
+Generate sitemap.xml dan products-ld.json via skrip.
+
+Pastikan gambar WebP multiple sizes + srcset + lazy loading.
+
+Upload ke server, pasang robots.txt.
+
+Submit sitemap ke GSC dan pantau.

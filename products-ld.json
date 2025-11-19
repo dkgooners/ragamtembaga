@@ -1,0 +1,24 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Produk Ragam Tembaga",
+    "description": "Koleksi produk tembaga handmade eksklusif dari Ragam Tembaga — lampu, dekorasi, kubah masjid, dan souvenir custom.",
+    "itemListElement": [
+        {
+            "@type": "Product",
+            "name": "Lampu Gantung Tembaga Klasik",
+            "image": "https://ragamtembaga.com/assets/img/lampu-gantung-tembaga.webp",
+            "description": "Lampu gantung tembaga klasik handmade dengan detail artistik dan warna keemasan elegan — cocok untuk ruang tamu, kafe, hingga hotel mewah.",
+            "brand": "Ragam Tembaga",
+            "url": "https://ragamtembaga.com/produk/lampu-gantung-tembaga-klasik.html"
+        },
+        {
+            "@type": "Product",
+            "name": "Lampu Meja Artistik Tembaga",
+            "image": "https://ragamtembaga.com/assets/img/lampu-meja-tembaga.webp",
+            "description": "Lampu meja artistik berbahan tembaga murni dengan desain modern dan sentuhan tradisional yang unik.",
+            "brand": "Ragam Tembaga",
+            "url": "https://ragamtembaga.com/produk/lampu-meja-tembaga-artistik.html"
+        }
+    ]
+}
