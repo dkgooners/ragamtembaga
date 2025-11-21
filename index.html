@@ -253,7 +253,8 @@
        Sumber: file index.html yang kamu upload. :contentReference[oaicite:1]{index=1}
        ===================== -->
 
-<!-- =====================
+
+    <!-- =====================
    VIDEO SHOWCASE – RAGAM TEMBAGA
    ===================== -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed/src/lite-yt-embed.css" />
@@ -279,14 +280,24 @@
                 detail artistik, dan komitmen pada kualitas tanpa kompromi.
             </p>
 
-        <!-- Lite YouTube Player -->
-        <lite-youtube 
-            videoid="VG_VDtqifsQ"
-            style="border-radius: 16px; overflow: hidden; max-width: 900px; margin: auto;">
-        </lite-youtube>
+            <!-- Lite YouTube Player -->
+            <div class="mx-auto max-w-3xl rounded-2xl overflow-hidden transform translate-x-8 
+            shadow-[0_0_40px_rgba(196,122,58,0.25)] 
+            hover:shadow-[0_0_60px_rgba(196,122,58,0.35)] 
+            transition-all duration-500">
 
-    </div>
-</section>
+                <!-- Aspect ratio wrapper -->
+                <div class="relative w-full" style="padding-bottom:53%; height:0;">
+
+                    <lite-youtube videoid="VG_VDtqifsQ"
+                        style="margin-left: 25px;position:absolute; top:0; left:0; width:100%; height:100%; border-radius:16px;">
+                    </lite-youtube>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- About -->
     <section id="about" class="py-20 bg-gray-900 relative overflow-hidden">
@@ -578,7 +589,7 @@
                 <!-- Product 5: Dekorasi Tembaga -->
                 <div class="rounded-2xl overflow-hidden bg-gray-800 border border-gray-700 hover-lift">
                     <div class="relative overflow-hidden">
-                        <img src="assets/img/wastafel_tembaga.webp" alt="Wastafel Tembaga"
+                        <img src="assets/img/wastafeltembaga.webp" alt="Wastafel Tembaga"
                             class="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500">
                     </div>
                     <div class="p-6 card-content">
